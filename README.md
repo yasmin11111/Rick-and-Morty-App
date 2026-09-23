@@ -18,6 +18,7 @@ In this project, I practiced:
     <img src="https://github.com/user-attachments/assets/b1109342-5dff-4e3b-959f-7e94cba8af3a" width="200">
     <img src="https://github.com/user-attachments/assets/497b1e9e-940d-463f-bd2e-2a90f6f02638" width="200">
     <img src="https://github.com/user-attachments/assets/868a288d-450a-45fa-9807-99857b59fbe7" width="200">
+<img width="1211" height="2474" alt="Screenshot_20260924_000100" src="https://github.com/user-attachments/assets/01fe2b2f-68f9-455d-b0dc-29fbae240894" />
 
 
 
